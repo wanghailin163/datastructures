@@ -9,6 +9,7 @@ import java.util.Scanner;
  */
 public class ArrayQueueDemo {
 
+
     public static void main(String[] args) {
         //测试一把
         //创建一个队列
